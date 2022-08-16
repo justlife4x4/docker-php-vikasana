@@ -1,0 +1,8 @@
+{
+  "name": "docker-php-vikasana",
+  "description": "PHP docker test",
+  "repository": "https://github.com/justlife4x4/docker-php-vikasana",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg",
+  "keywords": ["nginx", "docker", "proxy"],
+  "stack": "container"
+}
